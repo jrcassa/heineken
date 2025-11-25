@@ -1,4 +1,4 @@
-# <div align='center'>Hineken - Typescript/Javascript WhatsApp Web API</div>
+ # <div align='center'>Hineken - Typescript/Javascript WhatsApp Web API</div>
 
 
 
@@ -2656,5 +2656,3 @@ hineken.ws.on('CB:edge_routing,id:abcd,routing_info', (node: BinaryNode) => { })
 
 > [!NOTE]
 > Also, this repo is now licenced under GPL 3 since it uses [libsignal-node](https://git.questbook.io/backend/service-coderunner/-/merge_requests/1)
-#   h e i n e k e n  
- 
